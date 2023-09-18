@@ -1,0 +1,47 @@
+body {
+    /* height: 100%;
+    margin: 0;
+    display: flex;
+    background-color: rgb(29, 28, 28); */
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images.hdqwalls.com/wallpapers/beautiful-space-8h.jpg');
+    background-size: cover; 
+  } 
+   
+   .stopwatch-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    color: white;
+   
+  }
+  
+  .circle {
+    font-size: 55px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color:  rgb(160, 182, 201);
+  }
+  
+  li{
+    font-size: 18px;
+  }
+  
+  button:hover {
+    color:  rgb(73, 98, 119);
+    background-color:  rgb(160, 182, 201);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(185, 182, 182);
+  }
