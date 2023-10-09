@@ -27,8 +27,4 @@ Key Features:
 
 I built this app with a focus on performance and responsiveness, ensuring it works seamlessly on various devices and screen sizes. It's a testament to my dedication to creating functional and visually appealing web applications.
 
-Check out the Stopwatch App in action and explore more of my projects to see how I can contribute to your next web development endeavor!
 
----
-
-Feel free to customize this description to match the specific features and design of your Stopwatch App project. Your portfolio description should effectively highlight the key aspects of the project and demonstrate your skills as a React.js developer.
